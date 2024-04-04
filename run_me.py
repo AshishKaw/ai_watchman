@@ -39,14 +39,14 @@ parser.add_argument('--base_path', type=str,
                     default="C:/SHIV/ai_watchman/ai_watchman/",
                     help="Base path or project location")
 parser.add_argument('--video_path', type=str,
-                    default="D:/NAS/KAWS_HUB/RHYTHM/M30s_Pictures/Camera/20230605_190632.mp4",
+                    default="D:/M30s_Pictures/Camera/20230605_1906.mp4",
                     help="Path to the video stream or a clip")
 parser.add_argument('--base_url_alaxa', '-t', type=str,
-                    default="https://api-v2.voicemonkey.io/announcement?token=4e5f9535115a8c16298972c2692cf648_4131930f544cda5db63e431eadbc0bfa&device=kaws-home&text=",
+                    default="https://api-v2.voicemonkey.io/announcement?token=<<<voice monkey api token>>>&device=kaws-home&text=",
                     help="Alexa voicemonkey.io API link to play sounds on your alexa devices")
 parser.add_argument('--pass_score', type=float, default=0.5,
                     help="pass score to match face ")
-parser.add_argument('--faceArea', type=int, default=500,
+parser.add_argument('--faceArea', type=int, default=22500,
                     help="Minimum Face Size to be processed 22500(150px x 150px) so that far faces are ignored")
 parser.add_argument('--max_matched_results_capture', type=int, default=20,
                     help="Maximum Number of latest matched results captures to saved")
