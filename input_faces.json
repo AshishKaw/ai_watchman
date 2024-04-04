@@ -1,0 +1,92 @@
+{
+  "images": [
+    {
+      "name": "Ashish Kaw",
+      "speech": "Hold Tight Mr Ashish is at the door",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\ashish.png"
+    },
+    {
+      "name": "Rhythm Zutshi",
+      "speech": "Hooshiyaar Mahaaraani Rhythm Padaaar raahii Haaiiii",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\rhythm.png"
+    },
+    {
+      "name": "Vijay Kaw",
+      "speech": "Mr Vijay Kaw is at the door",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\vijay.png"
+    },
+    {
+      "name": "Priyanka Kaw",
+       "speech": "Open the door Priyanka Kaw is at the door",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\nicku.png"
+    },{
+      "name": "Indra Kaw",
+       "speech": "Open the door Indra Kaw is at the door",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\pyara.png"
+    },
+	{
+      "name": "Maaniya Kumar",
+       "speech": "Open the door Maaniya Kumar is at the door",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\maniya.png"
+    },
+    {
+      "name": "Sapna",
+       "speech": "Sab log Dhyaan doo Sapna aa rahi haai",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\sapna.png"
+    },
+    {
+      "name": "Lezli Fotedar",
+       "speech": "Open the Door Lezli Fotedaar is waiting",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\lezli1.png"
+    },
+    {
+      "name": "Lezli Fotedar",
+       "speech": "Daarwaza Khooldo Lezli Fotedaar aayi hai",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\lezli2.png"
+    },
+    {
+      "name": "Vivek Fotedar 1",
+       "speech": "Dhaarwaza Khooldo Vivek Fotedaar ji  aa rahee hai",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\vivek1.png"
+    },{
+      "name": "Vivek Fotedar 2",
+       "speech": "Open the door Vivek Fotedaar is waiting",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\vivek2.png"
+    },
+    {
+      "name": "Vivek Fotedar 3",
+       "speech": "Attention Everyone Vivek Fotedaar is waiting at at the door",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\vivek3.png"
+    },
+    {
+      "name": "Amresh Kumar 1",
+       "speech": "Please open the Door Amresh Kumar is waiting",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\amresh1.png"
+    },
+     {
+      "name": "Amresh Kumar 2",
+       "speech": "Dhaarwaza Khooldo Amresh Kumar is waiting",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\amresh2.png"
+    },
+	{
+      "name": "Tejas Kumar",
+       "speech": "Open the Door for Mr Tejas Kumaar",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\tejas.png"
+    },
+    {
+      "name": "Sapan Electrician",
+       "speech": "Open the Door for Sapan Electrician",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\sapan.png"
+    },
+    {
+      "name": "Gita Maid",
+       "speech": "Open the Door for Gita Maid",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\gita.png"
+    },
+    {
+      "name": "Tejas Kumar",
+       "speech": "Open the Door for Milk man or Doodwala",
+      "img_path": "C:\\openCV AI Models\\opencv_zoo-main\\models\\face_recognition_sface\\input_faces\\milkman.png"
+    }
+  ]
+}
